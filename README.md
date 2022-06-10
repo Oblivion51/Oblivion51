@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Oblivion51
-- 👀 I’m interested in ...
+- 👀 I'm interested in exploring
 - 🌱 I’m currently learning things
 
 <!---
